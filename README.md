@@ -26,7 +26,7 @@ Combinando as informações desses sensores, podemos calcular o delta de desgast
 
 **Componentes utilizados no projeto:**
 
-1 ESP23
+1 ESP32
 
 1 Sensor de temperatura DS18B20
 
